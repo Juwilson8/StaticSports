@@ -1,0 +1,44 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+#headerimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#athletes {
+    margin-top: 60px;
+    padding: 40px 20%;
+    background-color: #EFEFEF;
+    font-size: 20px;
+    line-height: 1.6em;
+    text-align: left;
+  }
+  #athleteimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+
+  #coaches {
+    margin-top: 60px;
+    padding: 40px 20%;
+    background-color: white;
+    font-size: 20px;
+    line-height: 1.6em;
+    text-align: left;
+  }
+  #coachimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+  p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+  }
